@@ -1,0 +1,367 @@
+,period,period_time,event,team,description,player_one,player_two,event_type,x_cord,y_cord,empty_net,pit_score,sjs_score,shot_attempt
+1,1,0:00,period_start,NA,Period Start,NA,NA,NA,NA,NA,NA,0,0,0
+2,1,0:00,faceoff,San Jose Sharks,Joe Thornton faceoff won against Sidney Crosby,Joe Thornton,Sidney Crosby,NA,0,0,NA,0,0,0
+3,1,0:12,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,0,0,0
+4,1,0:12,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Thornton,Sidney Crosby,Joe Thornton,NA,69,22,NA,0,0,0
+5,1,0:24,hit,Pittsburgh Penguins,Patric Hornqvist hit Joe Pavelski,Patric Hornqvist,Joe Pavelski,NA,41,-40,NA,0,0,0
+6,1,0:33,giveaway,Pittsburgh Penguins,Giveaway by Phil Kessel,Phil Kessel,NA,NA,16,40,NA,0,0,0
+7,1,0:59,shot,Pittsburgh Penguins,Olli Maatta Slap Shot saved by Martin Jones,Olli Maatta,NA,slap_shot,34,-31,NA,0,0,1
+8,1,1:49,hit,San Jose Sharks,Dainius Zubrus hit Chris Kunitz,Dainius Zubrus,Chris Kunitz,NA,75,40,NA,0,0,0
+9,1,1:54,hit,San Jose Sharks,Brenden Dillon hit Bryan Rust,Brenden Dillon,Bryan Rust,NA,76,39,NA,0,0,0
+10,1,2:00,hit,Pittsburgh Penguins,Evgeni Malkin hit Brenden Dillon,Evgeni Malkin,Brenden Dillon,NA,97,21,NA,0,0,0
+11,1,2:02,hit,Pittsburgh Penguins,Tom Kuhnhackl hit Roman Polak,Tom Kuhnhackl,Roman Polak,NA,39,41,NA,0,0,0
+12,1,2:25,hit,Pittsburgh Penguins,Eric Fehr hit Tommy Wingels,Eric Fehr,Tommy Wingels,NA,50,41,NA,0,0,0
+13,1,2:29,giveaway,San Jose Sharks,Giveaway by Tommy Wingels,Tommy Wingels,NA,NA,25,39,NA,0,0,0
+14,1,2:44,hit,San Jose Sharks,Joonas Donskoi hit Brian Dumoulin,Joonas Donskoi,Brian Dumoulin,NA,97,-7,NA,0,0,0
+15,1,2:47,giveaway,Pittsburgh Penguins,Giveaway by Brian Dumoulin,Brian Dumoulin,NA,NA,97,24,NA,0,0,0
+16,1,2:59,hit,Pittsburgh Penguins,Patric Hornqvist hit Marc-Edouard Vlasic,Patric Hornqvist,Marc-Edouard Vlasic,NA,91,-37,NA,0,0,0
+17,1,3:16,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,0,0,0
+18,1,3:16,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Logan Couture,Nick Bonino,Logan Couture,NA,69,22,NA,0,0,0
+19,1,3:42,blocked_shot,Pittsburgh Penguins,Nick Bonino blocked shot from Patrick Marleau,Patrick Marleau,Nick Bonino,NA,55,-8,NA,0,0,1
+20,1,3:43,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,0,0,0
+21,1,3:43,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Chris Tierney,Matt Cullen,Chris Tierney,NA,69,-22,NA,0,0,0
+22,1,3:59,hit,Pittsburgh Penguins,Justin Schultz hit Matt Nieto,Justin Schultz,Matt Nieto,NA,20,40,NA,0,0,0
+23,1,4:26,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,0,0,0
+24,1,4:26,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,69,-22,NA,0,0,0
+25,1,4:32,giveaway,Pittsburgh Penguins,Giveaway by Kris Letang,Kris Letang,NA,NA,37,-33,NA,0,0,0
+26,1,4:42,blocked_shot,San Jose Sharks,Marc-Edouard Vlasic blocked shot from Conor Sheary,Conor Sheary,Marc-Edouard Vlasic,NA,77,8,NA,0,0,1
+27,1,4:50,hit,San Jose Sharks,Joonas Donskoi hit Kris Letang,Joonas Donskoi,Kris Letang,NA,87,40,NA,0,0,0
+28,1,4:57,blocked_shot,San Jose Sharks,Joe Pavelski blocked shot from Brian Dumoulin,Brian Dumoulin,Joe Pavelski,NA,44,-24,NA,0,0,1
+29,1,5:08,hit,San Jose Sharks,Joe Pavelski hit Brian Dumoulin,Joe Pavelski,Brian Dumoulin,NA,45,-39,NA,0,0,0
+30,1,5:31,giveaway,Pittsburgh Penguins,Giveaway by Sidney Crosby,Sidney Crosby,NA,NA,65,-5,NA,0,0,0
+31,1,5:38,shot,Pittsburgh Penguins,Evgeni Malkin Slap Shot saved by Martin Jones,Evgeni Malkin,NA,slap_shot,60,-21,NA,0,0,1
+32,1,5:39,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,0,0,0
+33,1,5:39,faceoff,Pittsburgh Penguins,Evgeni Malkin faceoff won against Logan Couture,Evgeni Malkin,Logan Couture,NA,69,-22,NA,0,0,0
+34,1,6:01,missed_shot,Pittsburgh Penguins,Kris Letang - Wide of Net,Kris Letang,NA,NA,43,-24,NA,0,0,1
+35,1,6:08,giveaway,Pittsburgh Penguins,Giveaway by Evgeni Malkin,Evgeni Malkin,NA,NA,11,39,NA,0,0,0
+36,1,6:08,stoppage,NA,Offside,NA,NA,NA,NA,NA,NA,0,0,0
+37,1,6:08,faceoff,San Jose Sharks,Chris Tierney faceoff won against Nick Bonino,Chris Tierney,Nick Bonino,NA,20,22,NA,0,0,0
+38,1,6:16,hit,San Jose Sharks,Chris Tierney hit Ben Lovejoy,Chris Tierney,Ben Lovejoy,NA,98,-25,NA,0,0,0
+39,1,6:28,takeaway,San Jose Sharks,Takeaway by Paul Martin,Paul Martin,NA,NA,22,-8,NA,0,0,0
+40,1,6:34,takeaway,San Jose Sharks,Takeaway by Matt Nieto,Matt Nieto,NA,NA,31,38,NA,0,0,0
+41,1,6:38,shot,San Jose Sharks,Matt Nieto Slap Shot saved by Matthew Murray,Matt Nieto,NA,slap_shot,69,17,NA,0,0,1
+42,1,6:51,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,0,0,0
+43,1,6:51,faceoff,San Jose Sharks,Nick Spaling faceoff won against Sidney Crosby,Nick Spaling,Sidney Crosby,NA,69,-22,NA,0,0,0
+44,1,7:08,hit,San Jose Sharks,Nick Spaling hit Patric Hornqvist,Nick Spaling,Patric Hornqvist,NA,7,40,NA,0,0,0
+45,1,7:12,missed_shot,Pittsburgh Penguins,Sidney Crosby - Over Net,Sidney Crosby,NA,NA,49,0,NA,0,0,1
+46,1,7:19,giveaway,San Jose Sharks,Giveaway by Marc-Edouard Vlasic,Marc-Edouard Vlasic,NA,NA,96,19,NA,0,0,0
+47,1,7:41,giveaway,Pittsburgh Penguins,Giveaway by Conor Sheary,Conor Sheary,NA,NA,95,18,NA,0,0,0
+48,1,7:45,giveaway,San Jose Sharks,Giveaway by Justin Braun,Justin Braun,NA,NA,80,12,NA,0,0,0
+49,1,7:50,penalty,San Jose Sharks,Dainius Zubrus Tripping against Brian Dumoulin,Dainius Zubrus,Brian Dumoulin,tripping,44,36,NA,0,0,0
+50,1,7:50,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Chris Tierney,Nick Bonino,Chris Tierney,NA,69,22,NA,0,0,0
+51,1,8:11,hit,San Jose Sharks,Brent Burns hit Conor Sheary,Brent Burns,Conor Sheary,NA,85,-40,NA,0,0,0
+52,1,8:16,goal,Pittsburgh Penguins,"Brian Dumoulin (2) Slap Shot, assists: Justin Schultz (4), Chris Kunitz (8)",Brian Dumoulin,NA,slap_shot,35,-13,FALSE,1,0,1
+53,1,8:16,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Logan Couture,Matt Cullen,Logan Couture,NA,0,0,NA,1,0,0
+54,1,8:23,stoppage,NA,Offside,NA,NA,NA,NA,NA,NA,1,0,0
+55,1,8:23,faceoff,San Jose Sharks,Logan Couture faceoff won against Matt Cullen,Logan Couture,Matt Cullen,NA,20,-22,NA,1,0,0
+56,1,8:34,hit,Pittsburgh Penguins,Olli Maatta hit Melker Karlsson,Olli Maatta,Melker Karlsson,NA,97,2,NA,1,0,0
+57,1,8:37,stoppage,NA,Referee or Linesman,NA,NA,NA,NA,NA,NA,1,0,0
+58,1,8:37,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Evgeni Malkin,Joe Pavelski,Evgeni Malkin,NA,20,-22,NA,1,0,0
+59,1,8:52,takeaway,San Jose Sharks,Takeaway by Joe Thornton,Joe Thornton,NA,NA,97,-16,NA,1,0,0
+60,1,9:09,blocked_shot,San Jose Sharks,Roman Polak blocked shot from Chris Kunitz,Chris Kunitz,Roman Polak,NA,65,0,NA,1,0,1
+61,1,9:33,giveaway,Pittsburgh Penguins,Giveaway by Ian Cole,Ian Cole,NA,NA,97,-5,NA,1,0,0
+62,1,9:49,blocked_shot,Pittsburgh Penguins,Justin Schultz blocked shot from Joel Ward,Joel Ward,Justin Schultz,NA,69,-14,NA,1,0,1
+63,1,9:55,blocked_shot,Pittsburgh Penguins,Patric Hornqvist blocked shot from Joel Ward,Joel Ward,Patric Hornqvist,NA,69,-10,NA,1,0,1
+64,1,10:09,giveaway,Pittsburgh Penguins,Giveaway by Conor Sheary,Conor Sheary,NA,NA,32,-26,NA,1,0,0
+65,1,10:25,giveaway,Pittsburgh Penguins,Giveaway by Ben Lovejoy,Ben Lovejoy,NA,NA,5,38,NA,1,0,0
+66,1,11:11,hit,San Jose Sharks,Patrick Marleau hit Brian Dumoulin,Patrick Marleau,Brian Dumoulin,NA,83,-39,NA,1,0,0
+67,1,11:45,shot,San Jose Sharks,Roman Polak Wrist Shot saved by Matthew Murray,Roman Polak,NA,wrist_shot,31,-26,NA,1,0,1
+68,1,11:58,hit,Pittsburgh Penguins,Tom Kuhnhackl hit Joe Thornton,Tom Kuhnhackl,Joe Thornton,NA,8,-40,NA,1,0,0
+69,1,12:10,missed_shot,Pittsburgh Penguins,Bryan Rust - Wide of Net,Bryan Rust,NA,NA,54,-5,NA,1,0,1
+70,1,12:11,hit,San Jose Sharks,Joonas Donskoi hit Bryan Rust,Joonas Donskoi,Bryan Rust,NA,64,36,NA,1,0,0
+71,1,12:36,missed_shot,San Jose Sharks,Matt Nieto - Wide of Net,Matt Nieto,NA,NA,69,26,NA,1,0,1
+72,1,12:39,blocked_shot,Pittsburgh Penguins,Chris Kunitz blocked shot from Brent Burns,Brent Burns,Chris Kunitz,NA,61,-18,NA,1,0,1
+73,1,13:00,hit,San Jose Sharks,Tommy Wingels hit Brian Dumoulin,Tommy Wingels,Brian Dumoulin,NA,13,-41,NA,1,0,0
+74,1,13:11,hit,San Jose Sharks,Nick Spaling hit Sidney Crosby,Nick Spaling,Sidney Crosby,NA,73,-28,NA,1,0,0
+75,1,13:27,hit,Pittsburgh Penguins,Kris Letang hit Logan Couture,Kris Letang,Logan Couture,NA,97,21,NA,1,0,0
+76,1,14:08,blocked_shot,Pittsburgh Penguins,Nick Bonino blocked shot from Brenden Dillon,Brenden Dillon,Nick Bonino,NA,61,8,NA,1,0,1
+77,1,14:14,missed_shot,San Jose Sharks,Brenden Dillon - Wide of Net,Brenden Dillon,NA,NA,44,18,NA,1,0,1
+78,1,14:18,shot,San Jose Sharks,Roman Polak Wrist Shot saved by Matthew Murray,Roman Polak,NA,wrist_shot,44,-24,NA,1,0,1
+79,1,14:25,blocked_shot,Pittsburgh Penguins,Ben Lovejoy blocked shot from Matt Nieto,Matt Nieto,Ben Lovejoy,NA,63,6,NA,1,0,1
+80,1,14:27,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,1,0,0
+81,1,14:27,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Thornton,Sidney Crosby,Joe Thornton,NA,69,22,NA,1,0,0
+82,1,15:24,giveaway,San Jose Sharks,Giveaway by Martin Jones,Martin Jones,NA,NA,74,40,NA,1,0,0
+83,1,15:29,missed_shot,Pittsburgh Penguins,Chris Kunitz - Wide of Net,Chris Kunitz,NA,NA,74,12,NA,1,0,1
+84,1,15:38,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,1,0,0
+85,1,15:38,faceoff,San Jose Sharks,Logan Couture faceoff won against Nick Bonino,Logan Couture,Nick Bonino,NA,69,-22,NA,1,0,0
+86,1,15:44,giveaway,San Jose Sharks,Giveaway by Brenden Dillon,Brenden Dillon,NA,NA,52,-40,NA,1,0,0
+87,1,15:46,giveaway,Pittsburgh Penguins,Giveaway by Ian Cole,Ian Cole,NA,NA,75,-39,NA,1,0,0
+88,1,15:53,takeaway,San Jose Sharks,Takeaway by Logan Couture,Logan Couture,NA,NA,61,30,NA,1,0,0
+89,1,16:13,hit,San Jose Sharks,Joel Ward hit Justin Schultz,Joel Ward,Justin Schultz,NA,94,25,NA,1,0,0
+90,1,16:16,missed_shot,San Jose Sharks,Brent Burns - Wide of Net,Brent Burns,NA,NA,53,7,NA,1,0,1
+91,1,16:17,blocked_shot,Pittsburgh Penguins,Ian Cole blocked shot from Brent Burns,Brent Burns,Ian Cole,NA,69,-3,NA,1,0,1
+92,1,16:25,giveaway,San Jose Sharks,Giveaway by Paul Martin,Paul Martin,NA,NA,59,33,NA,1,0,0
+93,1,16:29,shot,Pittsburgh Penguins,Sidney Crosby Wrist Shot saved by Martin Jones,Sidney Crosby,NA,wrist_shot,61,-3,NA,1,0,1
+94,1,16:31,blocked_shot,San Jose Sharks,Joel Ward blocked shot from Phil Kessel,Phil Kessel,Joel Ward,NA,66,3,NA,1,0,1
+95,1,16:34,shot,Pittsburgh Penguins,Sidney Crosby Wrist Shot saved by Martin Jones,Sidney Crosby,NA,wrist_shot,86,9,NA,1,0,1
+96,1,16:38,hit,San Jose Sharks,Paul Martin hit Sidney Crosby,Paul Martin,Sidney Crosby,NA,97,28,NA,1,0,0
+97,1,16:41,blocked_shot,San Jose Sharks,Joel Ward blocked shot from Phil Kessel,Phil Kessel,Joel Ward,NA,73,0,NA,1,0,1
+98,1,16:43,shot,Pittsburgh Penguins,Conor Sheary Slap Shot saved by Martin Jones,Conor Sheary,NA,slap_shot,72,2,NA,1,0,1
+99,1,17:19,giveaway,Pittsburgh Penguins,Giveaway by Brian Dumoulin,Brian Dumoulin,NA,NA,35,-11,NA,1,0,0
+100,1,17:32,takeaway,San Jose Sharks,Takeaway by Roman Polak,Roman Polak,NA,NA,55,-17,NA,1,0,0
+101,1,17:33,blocked_shot,San Jose Sharks,Roman Polak blocked shot from Eric Fehr,Eric Fehr,Roman Polak,NA,60,-12,NA,1,0,1
+102,1,17:37,giveaway,San Jose Sharks,Giveaway by Joe Thornton,Joe Thornton,NA,NA,41,-4,NA,1,0,0
+103,1,17:49,hit,San Jose Sharks,Tommy Wingels hit Evgeni Malkin,Tommy Wingels,Evgeni Malkin,NA,51,40,NA,1,0,0
+104,1,18:02,hit,San Jose Sharks,Dainius Zubrus hit Chris Kunitz,Dainius Zubrus,Chris Kunitz,NA,93,-35,NA,1,0,0
+105,1,18:05,shot,Pittsburgh Penguins,Kris Letang Wrist Shot saved by Martin Jones,Kris Letang,NA,wrist_shot,71,35,NA,1,0,1
+106,1,18:06,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,1,0,0
+107,1,18:06,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Logan Couture,Nick Bonino,Logan Couture,NA,69,22,NA,1,0,0
+108,1,18:24,hit,San Jose Sharks,Brent Burns hit Phil Kessel,Brent Burns,Phil Kessel,NA,97,-16,NA,1,0,0
+109,1,18:27,hit,Pittsburgh Penguins,Carl Hagelin hit Logan Couture,Carl Hagelin,Logan Couture,NA,63,-40,NA,1,0,0
+110,1,18:32,shot,Pittsburgh Penguins,Phil Kessel Wrist Shot saved by Martin Jones,Phil Kessel,NA,wrist_shot,81,1,NA,1,0,1
+111,1,18:33,hit,San Jose Sharks,Paul Martin hit Phil Kessel,Paul Martin,Phil Kessel,NA,80,5,NA,1,0,0
+112,1,18:37,shot,Pittsburgh Penguins,Nick Bonino Wrist Shot saved by Martin Jones,Nick Bonino,NA,wrist_shot,70,2,NA,1,0,1
+113,1,18:39,blocked_shot,San Jose Sharks,Patrick Marleau blocked shot from Ben Lovejoy,Ben Lovejoy,Patrick Marleau,NA,73,-1,NA,1,0,1
+114,1,18:55,blocked_shot,Pittsburgh Penguins,Ben Lovejoy blocked shot from Matt Nieto,Matt Nieto,Ben Lovejoy,NA,73,-20,NA,1,0,1
+115,1,19:22,blocked_shot,San Jose Sharks,Marc-Edouard Vlasic blocked shot from Patric Hornqvist,Patric Hornqvist,Marc-Edouard Vlasic,NA,58,20,NA,1,0,1
+116,1,19:30,shot,San Jose Sharks,Joonas Donskoi Wrist Shot saved by Matthew Murray,Joonas Donskoi,NA,wrist_shot,66,-24,NA,1,0,1
+117,1,19:48,hit,Pittsburgh Penguins,Olli Maatta hit Dainius Zubrus,Olli Maatta,Dainius Zubrus,NA,35,42,NA,1,0,0
+118,1,20:00,hit,Pittsburgh Penguins,Evgeni Malkin hit Roman Polak,Evgeni Malkin,Roman Polak,NA,96,-20,NA,1,0,0
+119,1,20:00,period_end,NA,End of 1st Period,NA,NA,NA,NA,NA,NA,1,0,0
+120,2,0:00,period_start,NA,Period Start,NA,NA,NA,NA,NA,NA,1,0,0
+121,2,0:00,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,0,0,NA,1,0,0
+122,2,0:09,giveaway,San Jose Sharks,Giveaway by Joonas Donskoi,Joonas Donskoi,NA,NA,42,-30,NA,1,0,0
+123,2,0:27,giveaway,San Jose Sharks,Giveaway by Joe Thornton,Joe Thornton,NA,NA,32,30,NA,1,0,0
+124,2,0:46,hit,San Jose Sharks,Joe Pavelski hit Conor Sheary,Joe Pavelski,Conor Sheary,NA,42,23,NA,1,0,0
+125,2,0:48,blocked_shot,San Jose Sharks,Paul Martin blocked shot from Bryan Rust,Bryan Rust,Paul Martin,NA,55,20,NA,1,0,1
+126,2,0:49,stoppage,NA,Puck in Crowd,NA,NA,NA,NA,NA,NA,1,0,0
+127,2,0:49,faceoff,San Jose Sharks,Logan Couture faceoff won against Evgeni Malkin,Logan Couture,Evgeni Malkin,NA,69,22,NA,1,0,0
+128,2,1:16,missed_shot,San Jose Sharks,Logan Couture - Wide of Net,Logan Couture,NA,NA,82,5,NA,1,0,1
+129,2,1:22,missed_shot,San Jose Sharks,Melker Karlsson - Wide of Net,Melker Karlsson,NA,NA,72,13,NA,1,0,1
+130,2,1:22,shot,San Jose Sharks,Logan Couture Wrap-around saved by Matthew Murray,Logan Couture,NA,wrap-around,87,-4,NA,1,0,1
+131,2,1:23,shot,San Jose Sharks,Melker Karlsson Tip-In saved by Matthew Murray,Melker Karlsson,NA,tip-in,76,7,NA,1,0,1
+132,2,1:25,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,1,0,0
+133,2,1:25,faceoff,San Jose Sharks,Joel Ward faceoff won against Matt Cullen,Joel Ward,Matt Cullen,NA,69,22,NA,1,0,0
+134,2,1:33,blocked_shot,Pittsburgh Penguins,Carl Hagelin blocked shot from Brent Burns,Brent Burns,Carl Hagelin,NA,60,21,NA,1,0,1
+135,2,1:41,takeaway,Pittsburgh Penguins,Takeaway by Nick Bonino,Nick Bonino,NA,NA,41,-10,NA,1,0,0
+136,2,1:50,giveaway,San Jose Sharks,Giveaway by Matt Nieto,Matt Nieto,NA,NA,40,-38,NA,1,0,0
+137,2,1:54,shot,Pittsburgh Penguins,Nick Bonino Backhand saved by Martin Jones,Nick Bonino,NA,backhand,76,1,NA,1,0,1
+138,2,2:06,giveaway,Pittsburgh Penguins,Giveaway by Ian Cole,Ian Cole,NA,NA,22,-9,NA,1,0,0
+139,2,2:17,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,1,0,0
+140,2,2:17,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Sidney Crosby,Joe Pavelski,Sidney Crosby,NA,69,22,NA,1,0,0
+141,2,2:23,blocked_shot,Pittsburgh Penguins,Ian Cole blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Ian Cole,NA,76,2,NA,1,0,1
+142,2,2:30,shot,San Jose Sharks,Joe Thornton Deflected saved by Matthew Murray,Joe Thornton,NA,deflected,81,0,NA,1,0,1
+143,2,2:37,blocked_shot,Pittsburgh Penguins,Carl Hagelin blocked shot from Justin Braun,Justin Braun,Carl Hagelin,NA,76,1,NA,1,0,1
+144,2,2:50,shot,San Jose Sharks,Justin Braun Slap Shot saved by Matthew Murray,Justin Braun,NA,slap_shot,38,19,NA,1,0,1
+145,2,2:58,missed_shot,San Jose Sharks,Marc-Edouard Vlasic - Over Net,Marc-Edouard Vlasic,NA,NA,38,-12,NA,1,0,1
+146,2,3:06,blocked_shot,Pittsburgh Penguins,Sidney Crosby blocked shot from Melker Karlsson,Melker Karlsson,Sidney Crosby,NA,70,5,NA,1,0,1
+147,2,3:12,shot,San Jose Sharks,Melker Karlsson Tip-In saved by Matthew Murray,Melker Karlsson,NA,tip-in,79,-5,NA,1,0,1
+148,2,3:13,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,1,0,0
+149,2,3:13,faceoff,San Jose Sharks,Logan Couture faceoff won against Matt Cullen,Logan Couture,Matt Cullen,NA,69,-22,NA,1,0,0
+150,2,3:17,shot,San Jose Sharks,Logan Couture Snap Shot saved by Matthew Murray,Logan Couture,NA,snap_shot,64,-7,NA,1,0,1
+151,2,3:18,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,1,0,0
+152,2,3:18,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Logan Couture,Matt Cullen,Logan Couture,NA,69,-22,NA,1,0,0
+153,2,3:23,blocked_shot,Pittsburgh Penguins,Tom Kuhnhackl blocked shot from Roman Polak,Roman Polak,Tom Kuhnhackl,NA,60,10,NA,1,0,1
+154,2,3:28,blocked_shot,Pittsburgh Penguins,Eric Fehr blocked shot from Brent Burns,Brent Burns,Eric Fehr,NA,60,-17,NA,1,0,1
+155,2,3:32,blocked_shot,Pittsburgh Penguins,Eric Fehr blocked shot from Logan Couture,Logan Couture,Eric Fehr,NA,63,-4,NA,1,0,1
+156,2,3:35,blocked_shot,San Jose Sharks,Roman Polak blocked shot from Tom Kuhnhackl,Tom Kuhnhackl,Roman Polak,NA,69,1,NA,1,0,1
+157,2,3:38,hit,Pittsburgh Penguins,Eric Fehr hit Roman Polak,Eric Fehr,Roman Polak,NA,96,-21,NA,1,0,0
+158,2,3:39,hit,Pittsburgh Penguins,Tom Kuhnhackl hit Brent Burns,Tom Kuhnhackl,Brent Burns,NA,61,39,NA,1,0,0
+159,2,4:10,giveaway,San Jose Sharks,Giveaway by Roman Polak,Roman Polak,NA,NA,10,-39,NA,1,0,0
+160,2,4:16,shot,Pittsburgh Penguins,Bryan Rust Wrist Shot saved by Martin Jones,Bryan Rust,NA,wrist_shot,75,2,NA,1,0,1
+161,2,4:24,shot,San Jose Sharks,Chris Tierney Wrist Shot saved by Matthew Murray,Chris Tierney,NA,wrist_shot,34,8,NA,1,0,1
+162,2,4:26,hit,San Jose Sharks,Matt Nieto hit Evgeni Malkin,Matt Nieto,Evgeni Malkin,NA,53,-40,NA,1,0,0
+163,2,4:33,stoppage,NA,Puck in Benches,NA,NA,NA,NA,NA,NA,1,0,0
+164,2,4:33,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,0,0,NA,1,0,0
+165,2,4:42,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,1,0,0
+166,2,4:42,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Thornton,Sidney Crosby,Joe Thornton,NA,69,-22,NA,1,0,0
+167,2,4:48,missed_shot,Pittsburgh Penguins,Sidney Crosby - Wide of Net,Sidney Crosby,NA,NA,75,-9,NA,1,0,1
+168,2,5:03,takeaway,Pittsburgh Penguins,Takeaway by Conor Sheary,Conor Sheary,NA,NA,5,-18,NA,1,0,0
+169,2,5:36,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,1,0,0
+170,2,5:36,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Nick Spaling,Nick Bonino,Nick Spaling,NA,69,22,NA,1,0,0
+171,2,5:43,blocked_shot,San Jose Sharks,Nick Spaling blocked shot from Ian Cole,Ian Cole,Nick Spaling,NA,62,15,NA,1,0,1
+172,2,5:52,takeaway,San Jose Sharks,Takeaway by Tommy Wingels,Tommy Wingels,NA,NA,40,-40,NA,1,0,0
+173,2,6:05,blocked_shot,Pittsburgh Penguins,Justin Schultz blocked shot from Nick Spaling,Nick Spaling,Justin Schultz,NA,69,-23,NA,1,0,1
+174,2,6:09,shot,San Jose Sharks,Dainius Zubrus Wrist Shot saved by Matthew Murray,Dainius Zubrus,NA,wrist_shot,57,-33,NA,1,0,1
+175,2,6:12,hit,San Jose Sharks,Dainius Zubrus hit Justin Schultz,Dainius Zubrus,Justin Schultz,NA,80,-39,NA,1,0,0
+176,2,6:22,giveaway,Pittsburgh Penguins,Giveaway by Ian Cole,Ian Cole,NA,NA,29,11,NA,1,0,0
+177,2,6:27,goal,San Jose Sharks,"Logan Couture (10) Wrist Shot, assists: Melker Karlsson (3), Brent Burns (17)",Logan Couture,NA,wrist_shot,69,-3,FALSE,1,1,1
+178,2,6:27,faceoff,Pittsburgh Penguins,Evgeni Malkin faceoff won against Chris Tierney,Evgeni Malkin,Chris Tierney,NA,0,0,NA,1,1,0
+179,2,6:42,giveaway,Pittsburgh Penguins,Giveaway by Chris Kunitz,Chris Kunitz,NA,NA,22,14,NA,1,1,0
+180,2,7:01,giveaway,Pittsburgh Penguins,Giveaway by Olli Maatta,Olli Maatta,NA,NA,11,37,NA,1,1,0
+181,2,7:15,blocked_shot,San Jose Sharks,Paul Martin blocked shot from Sidney Crosby,Sidney Crosby,Paul Martin,NA,70,7,NA,1,1,1
+182,2,7:24,blocked_shot,San Jose Sharks,Roman Polak blocked shot from Brian Dumoulin,Brian Dumoulin,Roman Polak,NA,76,-1,NA,1,1,1
+183,2,7:28,giveaway,San Jose Sharks,Giveaway by Joe Pavelski,Joe Pavelski,NA,NA,55,-39,NA,1,1,0
+184,2,7:37,giveaway,San Jose Sharks,Giveaway by Joe Pavelski,Joe Pavelski,NA,NA,48,37,NA,1,1,0
+185,2,7:44,shot,Pittsburgh Penguins,Kris Letang Backhand saved by Martin Jones,Kris Letang,NA,backhand,93,16,NA,1,1,1
+186,2,7:46,goal,Pittsburgh Penguins,"Kris Letang (3) Slap Shot, assists: Sidney Crosby (12), Conor Sheary (6)",Kris Letang,NA,slap_shot,80,-4,FALSE,2,1,1
+187,2,7:46,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Logan Couture,Nick Bonino,Logan Couture,NA,0,0,NA,2,1,0
+188,2,8:21,stoppage,NA,High Stick,NA,NA,NA,NA,NA,NA,2,1,0
+189,2,8:21,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Chris Tierney,Nick Bonino,Chris Tierney,NA,0,0,NA,2,1,0
+190,2,8:37,stoppage,NA,Puck in Crowd,NA,NA,NA,NA,NA,NA,2,1,0
+191,2,8:37,faceoff,San Jose Sharks,Nick Spaling faceoff won against Matt Cullen,Nick Spaling,Matt Cullen,NA,20,22,NA,2,1,0
+192,2,8:51,hit,San Jose Sharks,Roman Polak hit Tom Kuhnhackl,Roman Polak,Tom Kuhnhackl,NA,14,-3,NA,2,1,0
+193,2,8:57,hit,San Jose Sharks,Dainius Zubrus hit Ben Lovejoy,Dainius Zubrus,Ben Lovejoy,NA,97,28,NA,2,1,0
+194,2,9:35,hit,Pittsburgh Penguins,Bryan Rust hit Paul Martin,Bryan Rust,Paul Martin,NA,4,-38,NA,2,1,0
+195,2,9:43,hit,Pittsburgh Penguins,Bryan Rust hit Brent Burns,Bryan Rust,Brent Burns,NA,97,20,NA,2,1,0
+196,2,10:03,hit,San Jose Sharks,Brent Burns hit Evgeni Malkin,Brent Burns,Evgeni Malkin,NA,96,22,NA,2,1,0
+197,2,10:09,hit,Pittsburgh Penguins,Ben Lovejoy hit Joe Pavelski,Ben Lovejoy,Joe Pavelski,NA,16,36,NA,2,1,0
+198,2,10:21,blocked_shot,Pittsburgh Penguins,Patric Hornqvist blocked shot from Brenden Dillon,Brenden Dillon,Patric Hornqvist,NA,63,-8,NA,2,1,1
+199,2,10:22,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+200,2,10:22,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Matt Cullen,Joe Pavelski,Matt Cullen,NA,69,-22,NA,2,1,0
+201,2,10:28,shot,San Jose Sharks,Brent Burns Wrist Shot saved by Matthew Murray,Brent Burns,NA,wrist_shot,58,21,NA,2,1,1
+202,2,10:32,missed_shot,San Jose Sharks,Joe Pavelski - Wide of Net,Joe Pavelski,NA,NA,68,-16,NA,2,1,1
+203,2,10:35,missed_shot,San Jose Sharks,Joe Thornton - Wide of Net,Joe Thornton,NA,NA,56,18,NA,2,1,1
+204,2,10:42,hit,Pittsburgh Penguins,Kris Letang hit Joonas Donskoi,Kris Letang,Joonas Donskoi,NA,99,-16,NA,2,1,0
+205,2,10:46,blocked_shot,Pittsburgh Penguins,Sidney Crosby blocked shot from Brent Burns,Brent Burns,Sidney Crosby,NA,49,21,NA,2,1,1
+206,2,10:53,hit,Pittsburgh Penguins,Kris Letang hit Joonas Donskoi,Kris Letang,Joonas Donskoi,NA,64,-41,NA,2,1,0
+207,2,11:01,blocked_shot,Pittsburgh Penguins,Matt Cullen blocked shot from Joonas Donskoi,Joonas Donskoi,Matt Cullen,NA,67,5,NA,2,1,1
+208,2,11:07,shot,Pittsburgh Penguins,Patric Hornqvist Wrist Shot saved by Martin Jones,Patric Hornqvist,NA,wrist_shot,50,-2,NA,2,1,1
+209,2,11:25,hit,San Jose Sharks,Matt Nieto hit Olli Maatta,Matt Nieto,Olli Maatta,NA,99,-13,NA,2,1,0
+210,2,11:41,shot,Pittsburgh Penguins,Phil Kessel Snap Shot saved by Martin Jones,Phil Kessel,NA,snap_shot,51,-25,NA,2,1,1
+211,2,12:14,hit,Pittsburgh Penguins,Bryan Rust hit Roman Polak,Bryan Rust,Roman Polak,NA,54,38,NA,2,1,0
+212,2,12:16,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,2,1,0
+213,2,12:16,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Chris Tierney,Sidney Crosby,Chris Tierney,NA,69,22,NA,2,1,0
+214,2,12:20,blocked_shot,San Jose Sharks,Melker Karlsson blocked shot from Patric Hornqvist,Patric Hornqvist,Melker Karlsson,NA,58,8,NA,2,1,1
+215,2,12:28,missed_shot,Pittsburgh Penguins,Kris Letang - Wide of Net,Kris Letang,NA,NA,37,21,NA,2,1,1
+216,2,12:32,hit,Pittsburgh Penguins,Patric Hornqvist hit Patrick Marleau,Patric Hornqvist,Patrick Marleau,NA,14,-40,NA,2,1,0
+217,2,12:39,hit,San Jose Sharks,Patrick Marleau hit Ian Cole,Patrick Marleau,Ian Cole,NA,97,-7,NA,2,1,0
+218,2,12:54,hit,San Jose Sharks,Logan Couture hit Ian Cole,Logan Couture,Ian Cole,NA,98,7,NA,2,1,0
+219,2,12:58,shot,San Jose Sharks,Patrick Marleau Wrist Shot saved by Matthew Murray,Patrick Marleau,NA,wrist_shot,75,-15,NA,2,1,1
+220,2,13:08,missed_shot,San Jose Sharks,Paul Martin - Wide of Net,Paul Martin,NA,NA,38,-10,NA,2,1,1
+221,2,13:21,hit,San Jose Sharks,Dainius Zubrus hit Patric Hornqvist,Dainius Zubrus,Patric Hornqvist,NA,19,-42,NA,2,1,0
+222,2,13:37,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+223,2,13:37,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Joe Pavelski,Matt Cullen,Joe Pavelski,NA,69,22,NA,2,1,0
+224,2,14:44,shot,San Jose Sharks,Joel Ward Backhand saved by Matthew Murray,Joel Ward,NA,backhand,67,0,NA,2,1,1
+225,2,14:46,hit,San Jose Sharks,Chris Tierney hit Bryan Rust,Chris Tierney,Bryan Rust,NA,97,-26,NA,2,1,0
+226,2,14:54,missed_shot,San Jose Sharks,Brent Burns - Wide of Net,Brent Burns,NA,NA,64,24,NA,2,1,1
+227,2,15:10,shot,Pittsburgh Penguins,Evgeni Malkin Wrist Shot saved by Martin Jones,Evgeni Malkin,NA,wrist_shot,82,-4,NA,2,1,1
+228,2,15:12,missed_shot,Pittsburgh Penguins,Brian Dumoulin - Wide of Net,Brian Dumoulin,NA,NA,81,-5,NA,2,1,1
+229,2,15:19,missed_shot,Pittsburgh Penguins,Chris Kunitz - Wide of Net,Chris Kunitz,NA,NA,40,7,NA,2,1,1
+230,2,15:47,giveaway,Pittsburgh Penguins,Giveaway by Carl Hagelin,Carl Hagelin,NA,NA,45,39,NA,2,1,0
+231,2,15:56,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+232,2,15:56,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Joe Pavelski,Matt Cullen,Joe Pavelski,NA,69,22,NA,2,1,0
+233,2,16:04,shot,San Jose Sharks,Brent Burns Wrist Shot saved by Matthew Murray,Brent Burns,NA,wrist_shot,55,19,NA,2,1,1
+234,2,16:05,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+235,2,16:05,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Matt Cullen,Joe Pavelski,Matt Cullen,NA,69,22,NA,2,1,0
+236,2,16:13,hit,San Jose Sharks,Brent Burns hit Kris Letang,Brent Burns,Kris Letang,NA,3,39,NA,2,1,0
+237,2,16:16,hit,Pittsburgh Penguins,Patric Hornqvist hit Brent Burns,Patric Hornqvist,Brent Burns,NA,7,37,NA,2,1,0
+238,2,16:31,hit,San Jose Sharks,Joonas Donskoi hit Ben Lovejoy,Joonas Donskoi,Ben Lovejoy,NA,96,9,NA,2,1,0
+239,2,16:39,shot,Pittsburgh Penguins,Sidney Crosby Tip-In saved by Martin Jones,Sidney Crosby,NA,tip-in,79,5,NA,2,1,1
+240,2,16:40,shot,Pittsburgh Penguins,Patric Hornqvist Backhand saved by Martin Jones,Patric Hornqvist,NA,backhand,84,3,NA,2,1,1
+241,2,16:41,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+242,2,16:41,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Logan Couture,Nick Bonino,Logan Couture,NA,69,22,NA,2,1,0
+243,2,16:48,blocked_shot,San Jose Sharks,Roman Polak blocked shot from Carl Hagelin,Carl Hagelin,Roman Polak,NA,77,-13,NA,2,1,1
+244,2,16:49,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+245,2,16:49,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Logan Couture,Nick Bonino,Logan Couture,NA,69,-22,NA,2,1,0
+246,2,16:54,missed_shot,Pittsburgh Penguins,Phil Kessel - Wide of Net,Phil Kessel,NA,NA,76,-37,NA,2,1,1
+247,2,16:54,shot,Pittsburgh Penguins,Carl Hagelin Wrist Shot saved by Martin Jones,Carl Hagelin,NA,wrist_shot,72,16,NA,2,1,1
+248,2,16:55,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+249,2,16:55,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Joel Ward,Nick Bonino,Joel Ward,NA,69,22,NA,2,1,0
+250,2,17:00,blocked_shot,San Jose Sharks,Joel Ward blocked shot from Olli Maatta,Olli Maatta,Joel Ward,NA,49,17,NA,2,1,1
+251,2,17:18,hit,San Jose Sharks,Chris Tierney hit Nick Bonino,Chris Tierney,Nick Bonino,NA,99,20,NA,2,1,0
+252,2,17:32,giveaway,San Jose Sharks,Giveaway by Brent Burns,Brent Burns,NA,NA,17,-19,NA,2,1,0
+253,2,17:38,hit,San Jose Sharks,Matt Nieto hit Bryan Rust,Matt Nieto,Bryan Rust,NA,93,-36,NA,2,1,0
+254,2,17:50,blocked_shot,San Jose Sharks,Brent Burns blocked shot from Evgeni Malkin,Evgeni Malkin,Brent Burns,NA,63,-12,NA,2,1,1
+255,2,17:58,blocked_shot,San Jose Sharks,Joe Pavelski blocked shot from Evgeni Malkin,Evgeni Malkin,Joe Pavelski,NA,46,15,NA,2,1,1
+256,2,18:02,hit,San Jose Sharks,Joe Pavelski hit Chris Kunitz,Joe Pavelski,Chris Kunitz,NA,31,39,NA,2,1,0
+257,2,18:29,blocked_shot,San Jose Sharks,Justin Braun blocked shot from Sidney Crosby,Sidney Crosby,Justin Braun,NA,77,-7,NA,2,1,1
+258,2,18:54,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,2,1,0
+259,2,18:54,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,69,22,NA,2,1,0
+260,2,19:25,shot,Pittsburgh Penguins,Matt Cullen Wrist Shot saved by Martin Jones,Matt Cullen,NA,wrist_shot,71,-13,NA,2,1,1
+261,2,19:31,blocked_shot,Pittsburgh Penguins,Kris Letang blocked shot from Patrick Marleau,Patrick Marleau,Kris Letang,NA,73,-12,NA,2,1,1
+262,2,19:44,hit,San Jose Sharks,Brent Burns hit Eric Fehr,Brent Burns,Eric Fehr,NA,49,39,NA,2,1,0
+263,2,19:48,hit,San Jose Sharks,Brent Burns hit Eric Fehr,Brent Burns,Eric Fehr,NA,54,40,NA,2,1,0
+264,2,19:59,blocked_shot,Pittsburgh Penguins,Ben Lovejoy blocked shot from Dainius Zubrus,Dainius Zubrus,Ben Lovejoy,NA,50,-18,NA,2,1,1
+265,2,20:00,period_end,NA,End of 2nd Period,NA,NA,NA,NA,NA,NA,2,1,0
+266,3,0:00,period_start,NA,Period Start,NA,NA,NA,NA,NA,NA,2,1,0
+267,3,0:00,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Logan Couture,Sidney Crosby,Logan Couture,NA,0,0,NA,2,1,0
+268,3,0:12,blocked_shot,San Jose Sharks,Logan Couture blocked shot from Brian Dumoulin,Brian Dumoulin,Logan Couture,NA,64,-13,NA,2,1,1
+269,3,0:12,giveaway,San Jose Sharks,Giveaway by Justin Braun,Justin Braun,NA,NA,43,-40,NA,2,1,0
+270,3,0:37,blocked_shot,San Jose Sharks,Paul Martin blocked shot from Phil Kessel,Phil Kessel,Paul Martin,NA,65,17,NA,2,1,1
+271,3,0:38,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+272,3,0:38,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Chris Tierney,Nick Bonino,Chris Tierney,NA,69,22,NA,2,1,0
+273,3,0:51,blocked_shot,Pittsburgh Penguins,Brian Dumoulin blocked shot from Chris Tierney,Chris Tierney,Brian Dumoulin,NA,87,20,NA,2,1,1
+274,3,1:20,giveaway,San Jose Sharks,Giveaway by Roman Polak,Roman Polak,NA,NA,37,37,NA,2,1,0
+275,3,1:25,takeaway,San Jose Sharks,Takeaway by Brent Burns,Brent Burns,NA,NA,72,0,NA,2,1,0
+276,3,2:04,hit,San Jose Sharks,Tommy Wingels hit Olli Maatta,Tommy Wingels,Olli Maatta,NA,90,-37,NA,2,1,0
+277,3,2:23,hit,Pittsburgh Penguins,Ian Cole hit Dainius Zubrus,Ian Cole,Dainius Zubrus,NA,47,-39,NA,2,1,0
+278,3,2:26,missed_shot,Pittsburgh Penguins,Sidney Crosby - Wide of Net,Sidney Crosby,NA,NA,70,13,NA,2,1,1
+279,3,3:00,shot,Pittsburgh Penguins,Sidney Crosby Wrist Shot saved by Martin Jones,Sidney Crosby,NA,wrist_shot,45,-4,NA,2,1,1
+280,3,3:10,blocked_shot,San Jose Sharks,Justin Braun blocked shot from Phil Kessel,Phil Kessel,Justin Braun,NA,60,-8,NA,2,1,1
+281,3,3:23,missed_shot,Pittsburgh Penguins,Phil Kessel - Wide of Net,Phil Kessel,NA,NA,54,-4,NA,2,1,1
+282,3,3:24,giveaway,San Jose Sharks,Giveaway by Paul Martin,Paul Martin,NA,NA,60,-1,NA,2,1,0
+283,3,3:37,shot,Pittsburgh Penguins,Nick Bonino Backhand saved by Martin Jones,Nick Bonino,NA,backhand,79,-5,NA,2,1,1
+284,3,3:41,takeaway,San Jose Sharks,Takeaway by Melker Karlsson,Melker Karlsson,NA,NA,95,13,NA,2,1,0
+285,3,3:45,shot,San Jose Sharks,Logan Couture Wrist Shot saved by Matthew Murray,Logan Couture,NA,wrist_shot,41,18,NA,2,1,1
+286,3,3:47,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+287,3,3:47,faceoff,Pittsburgh Penguins,Matt Cullen faceoff won against Joe Thornton,Matt Cullen,Joe Thornton,NA,69,22,NA,2,1,0
+288,3,3:53,hit,San Jose Sharks,Brent Burns hit Eric Fehr,Brent Burns,Eric Fehr,NA,26,42,NA,2,1,0
+289,3,4:03,shot,Pittsburgh Penguins,Eric Fehr Wrist Shot saved by Martin Jones,Eric Fehr,NA,wrist_shot,59,35,NA,2,1,1
+290,3,4:20,hit,San Jose Sharks,Brenden Dillon hit Bryan Rust,Brenden Dillon,Bryan Rust,NA,99,9,NA,2,1,0
+291,3,4:33,blocked_shot,San Jose Sharks,Justin Braun blocked shot from Evgeni Malkin,Evgeni Malkin,Justin Braun,NA,77,3,NA,2,1,1
+292,3,4:39,missed_shot,Pittsburgh Penguins,Evgeni Malkin - Wide of Net,Evgeni Malkin,NA,NA,57,-28,NA,2,1,1
+293,3,4:48,hit,Pittsburgh Penguins,Chris Kunitz hit Joel Ward,Chris Kunitz,Joel Ward,NA,82,-40,NA,2,1,0
+294,3,5:02,blocked_shot,Pittsburgh Penguins,Brian Dumoulin blocked shot from Justin Braun,Justin Braun,Brian Dumoulin,NA,50,-6,NA,2,1,1
+295,3,5:06,blocked_shot,Pittsburgh Penguins,Patric Hornqvist blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Patric Hornqvist,NA,54,12,NA,2,1,1
+296,3,5:17,takeaway,Pittsburgh Penguins,Takeaway by Ben Lovejoy,Ben Lovejoy,NA,NA,94,-35,NA,2,1,0
+297,3,5:26,penalty,Pittsburgh Penguins,Conor Sheary Hooking against Justin Braun,Conor Sheary,Justin Braun,hooking,29,-33,NA,2,1,0
+298,3,5:26,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Joe Pavelski,Nick Bonino,Joe Pavelski,NA,69,-22,NA,2,1,0
+299,3,5:44,giveaway,San Jose Sharks,Giveaway by Joe Thornton,Joe Thornton,NA,NA,48,-22,NA,2,1,0
+300,3,5:47,stoppage,NA,High Stick,NA,NA,NA,NA,NA,NA,2,1,0
+301,3,5:47,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Matt Cullen,Joe Pavelski,Matt Cullen,NA,69,-22,NA,2,1,0
+302,3,6:06,giveaway,San Jose Sharks,Giveaway by Brent Burns,Brent Burns,NA,NA,40,31,NA,2,1,0
+303,3,6:21,blocked_shot,Pittsburgh Penguins,Ian Cole blocked shot from Logan Couture,Logan Couture,Ian Cole,NA,78,8,NA,2,1,1
+304,3,6:46,blocked_shot,Pittsburgh Penguins,Kris Letang blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Kris Letang,NA,68,20,NA,2,1,1
+305,3,6:56,giveaway,San Jose Sharks,Giveaway by Marc-Edouard Vlasic,Marc-Edouard Vlasic,NA,NA,77,40,NA,2,1,0
+306,3,7:14,blocked_shot,Pittsburgh Penguins,Ben Lovejoy blocked shot from Logan Couture,Logan Couture,Ben Lovejoy,NA,57,27,NA,2,1,1
+307,3,7:16,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+308,3,7:16,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Joe Thornton,Nick Bonino,Joe Thornton,NA,69,22,NA,2,1,0
+309,3,7:44,shot,Pittsburgh Penguins,Brian Dumoulin Slap Shot saved by Martin Jones,Brian Dumoulin,NA,slap_shot,48,-5,NA,2,1,1
+310,3,7:50,blocked_shot,San Jose Sharks,Justin Braun blocked shot from Conor Sheary,Conor Sheary,Justin Braun,NA,65,-9,NA,2,1,1
+311,3,8:00,giveaway,San Jose Sharks,Giveaway by Marc-Edouard Vlasic,Marc-Edouard Vlasic,NA,NA,98,8,NA,2,1,0
+312,3,8:17,hit,San Jose Sharks,Joel Ward hit Ben Lovejoy,Joel Ward,Ben Lovejoy,NA,98,-30,NA,2,1,0
+313,3,8:25,giveaway,San Jose Sharks,Giveaway by Roman Polak,Roman Polak,NA,NA,80,40,NA,2,1,0
+314,3,8:45,missed_shot,San Jose Sharks,Nick Spaling - Wide of Net,Nick Spaling,NA,NA,55,-24,NA,2,1,1
+315,3,9:00,hit,Pittsburgh Penguins,Ian Cole hit Patrick Marleau,Ian Cole,Patrick Marleau,NA,22,-41,NA,2,1,0
+316,3,9:22,hit,San Jose Sharks,Brent Burns hit Conor Sheary,Brent Burns,Conor Sheary,NA,45,-41,NA,2,1,0
+317,3,9:32,hit,San Jose Sharks,Joe Pavelski hit Olli Maatta,Joe Pavelski,Olli Maatta,NA,98,-19,NA,2,1,0
+318,3,10:02,missed_shot,San Jose Sharks,Joonas Donskoi - Wide of Net,Joonas Donskoi,NA,NA,54,1,NA,2,1,1
+319,3,10:06,blocked_shot,Pittsburgh Penguins,Patric Hornqvist blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Patric Hornqvist,NA,58,9,NA,2,1,1
+320,3,10:14,giveaway,San Jose Sharks,Giveaway by Justin Braun,Justin Braun,NA,NA,40,-10,NA,2,1,0
+321,3,10:39,hit,San Jose Sharks,Matt Nieto hit Brian Dumoulin,Matt Nieto,Brian Dumoulin,NA,97,4,NA,2,1,0
+322,3,10:58,takeaway,Pittsburgh Penguins,Takeaway by Phil Kessel,Phil Kessel,NA,NA,26,11,NA,2,1,0
+323,3,11:02,penalty,San Jose Sharks,Brent Burns Slashing against Phil Kessel,Brent Burns,Phil Kessel,slashing,35,11,NA,2,1,0
+324,3,11:02,stoppage,NA,TV timeout,NA,NA,NA,NA,NA,NA,2,1,0
+325,3,11:02,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Logan Couture,Sidney Crosby,Logan Couture,NA,69,-22,NA,2,1,0
+326,3,11:24,blocked_shot,San Jose Sharks,Chris Tierney blocked shot from Evgeni Malkin,Evgeni Malkin,Chris Tierney,NA,54,-1,NA,2,1,1
+327,3,11:25,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+328,3,11:25,faceoff,San Jose Sharks,Chris Tierney faceoff won against Sidney Crosby,Chris Tierney,Sidney Crosby,NA,69,22,NA,2,1,0
+329,3,13:28,takeaway,Pittsburgh Penguins,Takeaway by Conor Sheary,Conor Sheary,NA,NA,5,35,NA,2,1,0
+330,3,13:35,blocked_shot,San Jose Sharks,Joe Pavelski blocked shot from Sidney Crosby,Sidney Crosby,Joe Pavelski,NA,73,-8,NA,2,1,1
+331,3,13:38,stoppage,NA,Puck in Netting,NA,NA,NA,NA,NA,NA,2,1,0
+332,3,13:38,faceoff,San Jose Sharks,Chris Tierney faceoff won against Evgeni Malkin,Chris Tierney,Evgeni Malkin,NA,69,-22,NA,2,1,0
+333,3,14:18,shot,Pittsburgh Penguins,Phil Kessel Slap Shot saved by Martin Jones,Phil Kessel,NA,slap_shot,81,-5,NA,2,1,1
+334,3,15:01,missed_shot,San Jose Sharks,Marc-Edouard Vlasic - Wide of Net,Marc-Edouard Vlasic,NA,NA,50,37,NA,2,1,1
+335,3,15:06,blocked_shot,Pittsburgh Penguins,Patric Hornqvist blocked shot from Justin Braun,Justin Braun,Patric Hornqvist,NA,44,-16,NA,2,1,1
+336,3,15:14,takeaway,Pittsburgh Penguins,Takeaway by Sidney Crosby,Sidney Crosby,NA,NA,55,-39,NA,2,1,0
+337,3,15:20,blocked_shot,San Jose Sharks,Logan Couture blocked shot from Ben Lovejoy,Ben Lovejoy,Logan Couture,NA,58,11,NA,2,1,1
+338,3,15:35,hit,Pittsburgh Penguins,Chris Kunitz hit Joel Ward,Chris Kunitz,Joel Ward,NA,99,32,NA,2,1,0
+339,3,15:48,missed_shot,San Jose Sharks,Melker Karlsson - Wide of Net,Melker Karlsson,NA,NA,58,-23,NA,2,1,1
+340,3,15:57,shot,Pittsburgh Penguins,Carl Hagelin Wrist Shot saved by Martin Jones,Carl Hagelin,NA,wrist_shot,76,17,NA,2,1,1
+341,3,15:58,stoppage,NA,Goalie Stopped,NA,NA,NA,NA,NA,NA,2,1,0
+342,3,15:58,faceoff,San Jose Sharks,Chris Tierney faceoff won against Nick Bonino,Chris Tierney,Nick Bonino,NA,69,22,NA,2,1,0
+343,3,16:17,stoppage,NA,Offside,NA,NA,NA,NA,NA,NA,2,1,0
+344,3,16:17,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,20,-22,NA,2,1,0
+345,3,16:22,giveaway,Pittsburgh Penguins,Giveaway by Matt Cullen,Matt Cullen,NA,NA,5,-38,NA,2,1,0
+346,3,16:59,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,2,1,0
+347,3,16:59,faceoff,San Jose Sharks,Joel Ward faceoff won against Evgeni Malkin,Joel Ward,Evgeni Malkin,NA,69,-22,NA,2,1,0
+348,3,17:05,stoppage,NA,Hand Pass,NA,NA,NA,NA,NA,NA,2,1,0
+349,3,17:05,faceoff,Pittsburgh Penguins,Evgeni Malkin faceoff won against Joe Pavelski,Evgeni Malkin,Joe Pavelski,NA,20,-22,NA,2,1,0
+350,3,17:23,stoppage,NA,High Stick,NA,NA,NA,NA,NA,NA,2,1,0
+351,3,17:23,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Chris Tierney,Sidney Crosby,Chris Tierney,NA,0,0,NA,2,1,0
+352,3,18:49,giveaway,Pittsburgh Penguins,Giveaway by Kris Letang,Kris Letang,NA,NA,49,-40,NA,2,1,0
+353,3,18:55,blocked_shot,Pittsburgh Penguins,Sidney Crosby blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Sidney Crosby,NA,48,15,NA,2,1,1
+354,3,18:58,goal,Pittsburgh Penguins,"Patric Hornqvist (9) Wrist Shot, assists: Sidney Crosby (13)",Patric Hornqvist,NA,wrist_shot,40,21,TRUE,3,1,1
+355,3,18:58,faceoff,Pittsburgh Penguins,Nick Bonino faceoff won against Chris Tierney,Nick Bonino,Chris Tierney,NA,0,0,NA,3,1,0
+356,3,19:09,blocked_shot,Pittsburgh Penguins,Nick Bonino blocked shot from Joonas Donskoi,Joonas Donskoi,Nick Bonino,NA,54,-5,NA,3,1,1
+357,3,19:14,shot,San Jose Sharks,Joonas Donskoi Wrist Shot saved by Matthew Murray,Joonas Donskoi,NA,wrist_shot,57,-25,NA,3,1,1
+358,3,19:25,blocked_shot,Pittsburgh Penguins,Eric Fehr blocked shot from Logan Couture,Logan Couture,Eric Fehr,NA,53,14,NA,3,1,1
+359,3,19:29,stoppage,NA,Icing,NA,NA,NA,NA,NA,NA,3,1,0
+360,3,19:29,faceoff,San Jose Sharks,Joe Pavelski faceoff won against Nick Bonino,Joe Pavelski,Nick Bonino,NA,69,-22,NA,3,1,0
+361,3,19:35,missed_shot,San Jose Sharks,Logan Couture - Wide of Net,Logan Couture,NA,NA,35,1,NA,3,1,1
+362,3,19:44,blocked_shot,San Jose Sharks,Logan Couture blocked shot from Carl Hagelin,Carl Hagelin,Logan Couture,NA,62,11,NA,3,1,1
+363,3,19:50,penalty,Pittsburgh Penguins,Eric Fehr Hi-sticking against Joe Pavelski,Eric Fehr,Joe Pavelski,hi-sticking,32,4,NA,3,1,0
+364,3,19:50,faceoff,Pittsburgh Penguins,Sidney Crosby faceoff won against Joe Pavelski,Sidney Crosby,Joe Pavelski,NA,69,-22,NA,3,1,0
+365,3,19:54,blocked_shot,Pittsburgh Penguins,Sidney Crosby blocked shot from Marc-Edouard Vlasic,Marc-Edouard Vlasic,Sidney Crosby,NA,62,-10,NA,3,1,1
+366,3,20:00,period_end,NA,End of 3rd Period,NA,NA,NA,NA,NA,NA,3,1,0
