@@ -3,7 +3,7 @@ library(tidyverse)
 nhl <- read.csv("nhl_pit_sj_game6.csv")
 
 nhl$cumulative_shots <- cumsum(nhl$shot_attempt == 1)
-table(nhl$event)
+
 nhl_team_stats <- nhl %>% 
   filter(event %in% c("blocked_shot", "faceoff", "giveaway", "hit", "shot")) %>% 
   select(event, team) %>% 
@@ -19,4 +19,5 @@ nhl_team_stats <- nhl %>%
         axis.title = element_text(size = 15)) +
   scale_x_discrete(labels = c("Blocked Shots", "Faceoffs", "Giveaways", "Hits","Shots on Goal"))
 nhl_team_stats
+
 
