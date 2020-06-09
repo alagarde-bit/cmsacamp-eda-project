@@ -5,6 +5,7 @@ nhl <- read.csv("nhl_pit_sj_game6.csv")
 nhl$cumulative_shots <- cumsum(nhl$shot_attempt == 1)
 
 nhl_team_stats <- nhl %>% 
+  #Alex Lagarde code
   filter(event %in% c("blocked_shot", "faceoff", "giveaway", "hit", "shot")) %>% 
   select(event, team) %>% 
   ggplot(aes(x = event, fill = team)) + geom_bar(position = "dodge") + 
